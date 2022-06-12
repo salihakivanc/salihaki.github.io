@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Saliha Kıvanç
 
 You can use the [editor on GitHub](https://github.com/salihakivanc/salihaki.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
